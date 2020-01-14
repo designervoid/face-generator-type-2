@@ -1,0 +1,6 @@
+env
+__pycache__
+data
+logs
+assets
+.DS_Store
